@@ -215,5 +215,4 @@ For more information, check the [CONTRIBUTING.md](https://github.com/yourusernam
 This project is maintained by [Your Name](https://github.com/yourusername). Special thanks to [Contributors](https://github.com/yourusername/yourrepository/graphs/contributors) who have helped make this project what it is today.
 
 ---
-
-这个模板包含了一个典型的开源工具项目的 README 文件框架。根据你的工具的具体功能，你可以填写详细内容，扩展每个部分，使文档更符合实际需求。如果你有任何具体的要求或问题，欢迎告诉我！
+thankyou!
