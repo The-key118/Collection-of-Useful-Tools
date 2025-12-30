@@ -1,9 +1,4 @@
-
-
-
-
-
-(Since 20,000 words exceeds the generation limit of a single conversation, I will output it in modules. This first part includes the **Project Vision, Deep Dive into Core Architecture, and extremely detailed documentation for the first two core tools.**)
+tools
 
 ---
 
